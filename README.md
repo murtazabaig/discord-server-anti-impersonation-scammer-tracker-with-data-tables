@@ -1,3 +1,5 @@
+![Workflow thumbnail](assets/thumbnail.webp)
+
 ![Workflow thumbnail](assets/thumbnail.svg)
 
 ![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
@@ -18,7 +20,6 @@ Effortlessly track Discord member name changes with automated alerts, audit logs
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -41,6 +42,13 @@ Effortlessly track Discord member name changes with automated alerts, audit logs
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/2422-venafi-cloud-slack-cert-bot.webp)
+![Screenshot](assets/5f0df8389fc34183a13af1410b997802-a02fd2568ac4ed63-full-play.gif)
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
